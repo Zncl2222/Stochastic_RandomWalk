@@ -34,7 +34,7 @@ Throw the dice to decide next move!
 ### Efficiency comparison in different language (1 Million steps, 1 Realization)
 -----------------------------------------------------------------------------------------------
 <p align="center">
-<img src="https://github.com/Zncl2222/Stochastic_Random_Tools/blob/main/figure/C_Cpp_py_comparision.png"  width="70%"/>
+<img src="https://github.com/Zncl2222/Stochastic_RandomWalk/blob/main/figure/C_Cpp_py_comparision.png"  width="70%"/>
 </p>
 
 ```
@@ -50,18 +50,18 @@ Disk: WD SN530
 ### RandomWalk 1D example
 ----------------------------------------------------------------------------------------------
 <p align="center">
-<img src="https://github.com/Zncl2222/Stochastic_Random_Tools/blob/main/figure/RandomWalk1D.png"  width="70%"/>
+<img src="https://github.com/Zncl2222/Stochastic_RandomWalk/blob/main/figure/RandomWalk1D.png"  width="70%"/>
 </p>
 
 ### RandomWalk 2D example
 ----------------------------------------------------------------------------------------------
 <p align="center">
-<img src="https://github.com/Zncl2222/Stochastic_Random_Tools/blob/main/figure/RandomWalk2D.png"  width="70%"/>
+<img src="https://github.com/Zncl2222/Stochastic_RandomWalk/blob/main/figure/RandomWalk2D.png"  width="70%"/>
 </p>
 
 ### RandomWalk_Omnidirection 2D example
 ----------------------------------------------------------------------------------------------
 <p align="center">
-<img src="https://github.com/Zncl2222/Stochastic_Random_Tools/blob/main/figure/RandomWalk2D_Omni.png"  width="70%"/>
+<img src="https://github.com/Zncl2222/Stochastic_RandomWalk/blob/main/figure/RandomWalk2D_Omni.png"  width="70%"/>
 </p>
 
