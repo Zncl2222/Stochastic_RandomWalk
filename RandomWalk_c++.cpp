@@ -220,14 +220,7 @@ int RandomWalk:: Walk()
     return 0;
 }
 
-/*
-int RandomWalk2D_Omni::Draw()
-{   
-    int r;
-        r=360*rand()/RAND_MAX+0;
-    return r;
-};
-*/
+
 int RandomWalk2D_Omni:: Walk()
 {   
     
